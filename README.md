@@ -1,5 +1,5 @@
 
-# 📚 DocuMind AI
+#  Docu - AI
 
 A simple RAG-based PDF Question Answering application that allows users to upload PDF documents and ask questions about their content using Generative AI.
 
