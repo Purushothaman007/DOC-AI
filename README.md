@@ -3,12 +3,12 @@
 
 A simple RAG-based PDF Question Answering application that allows users to upload PDF documents and ask questions about their content using Generative AI.
 
-## 🚀 Live Demo
+## Live Demo
 
 - **Frontend:** [Streamlit App](https://your-app-name.streamlit.app)
 - **Backend API:** [FastAPI](https://your-backend-url.onrender.com)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Streamlit
 - **Backend:** Python, FastAPI
@@ -17,7 +17,7 @@ A simple RAG-based PDF Question Answering application that allows users to uploa
 - **Similarity Search:** NumPy, Cosine Similarity
 - **PDF Processing:** PyPDF
 
-## ✨ Features
+## Features
 
 - Upload PDF documents.
 - Extract and split document text into chunks.
@@ -26,7 +26,7 @@ A simple RAG-based PDF Question Answering application that allows users to uploa
 - Ask questions about uploaded documents.
 - Generate context-aware answers using Groq.
 
-## 🧠 How It Works
+##  How It Works
 
 1. Upload a PDF document.
 2. Extract text and split it into chunks.
