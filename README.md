@@ -3,11 +3,6 @@
 
 A simple RAG-based PDF Question Answering application that allows users to upload PDF documents and ask questions about their content using Generative AI.
 
-## Live Demo
-
-- **Frontend:** [Streamlit App](https://purush-doc-ai.streamlit.app/)
-- **Backend API:** [FastAPI](https://doc-ai-o1ge.onrender.com/)
-
 ## Tech Stack
 
 - **Frontend:** Streamlit
