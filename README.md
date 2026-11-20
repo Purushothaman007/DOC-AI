@@ -5,8 +5,8 @@ A simple RAG-based PDF Question Answering application that allows users to uploa
 
 ## Live Demo
 
-- **Frontend:** [Streamlit App](https://your-app-name.streamlit.app)
-- **Backend API:** [FastAPI](https://your-backend-url.onrender.com)
+- **Frontend:** [Streamlit App](https://purush-doc-ai.streamlit.app/)
+- **Backend API:** [FastAPI](https://doc-ai-o1ge.onrender.com/)
 
 ## Tech Stack
 
